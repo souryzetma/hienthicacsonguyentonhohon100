@@ -1,0 +1,14 @@
+E:\hienthicacsonguyentonhohon100\bin\Debug\net8.0\hienthicacsonguyentonhohon100.exe
+E:\hienthicacsonguyentonhohon100\bin\Debug\net8.0\hienthicacsonguyentonhohon100.deps.json
+E:\hienthicacsonguyentonhohon100\bin\Debug\net8.0\hienthicacsonguyentonhohon100.runtimeconfig.json
+E:\hienthicacsonguyentonhohon100\bin\Debug\net8.0\hienthicacsonguyentonhohon100.dll
+E:\hienthicacsonguyentonhohon100\bin\Debug\net8.0\hienthicacsonguyentonhohon100.pdb
+E:\hienthicacsonguyentonhohon100\obj\Debug\net8.0\hienthicacsonguyentonhohon100.GeneratedMSBuildEditorConfig.editorconfig
+E:\hienthicacsonguyentonhohon100\obj\Debug\net8.0\hienthicacsonguyentonhohon100.AssemblyInfoInputs.cache
+E:\hienthicacsonguyentonhohon100\obj\Debug\net8.0\hienthicacsonguyentonhohon100.AssemblyInfo.cs
+E:\hienthicacsonguyentonhohon100\obj\Debug\net8.0\hienthicacsonguyentonhohon100.csproj.CoreCompileInputs.cache
+E:\hienthicacsonguyentonhohon100\obj\Debug\net8.0\hienthicacsonguyentonhohon100.dll
+E:\hienthicacsonguyentonhohon100\obj\Debug\net8.0\refint\hienthicacsonguyentonhohon100.dll
+E:\hienthicacsonguyentonhohon100\obj\Debug\net8.0\hienthicacsonguyentonhohon100.pdb
+E:\hienthicacsonguyentonhohon100\obj\Debug\net8.0\hienthicacsonguyentonhohon100.genruntimeconfig.cache
+E:\hienthicacsonguyentonhohon100\obj\Debug\net8.0\ref\hienthicacsonguyentonhohon100.dll
